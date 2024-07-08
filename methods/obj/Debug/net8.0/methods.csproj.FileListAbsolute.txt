@@ -1,0 +1,14 @@
+/home/sistemas/Development/c#/methods/bin/Debug/net8.0/methods
+/home/sistemas/Development/c#/methods/bin/Debug/net8.0/methods.deps.json
+/home/sistemas/Development/c#/methods/bin/Debug/net8.0/methods.runtimeconfig.json
+/home/sistemas/Development/c#/methods/bin/Debug/net8.0/methods.dll
+/home/sistemas/Development/c#/methods/bin/Debug/net8.0/methods.pdb
+/home/sistemas/Development/c#/methods/obj/Debug/net8.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/sistemas/Development/c#/methods/obj/Debug/net8.0/methods.AssemblyInfoInputs.cache
+/home/sistemas/Development/c#/methods/obj/Debug/net8.0/methods.AssemblyInfo.cs
+/home/sistemas/Development/c#/methods/obj/Debug/net8.0/methods.csproj.CoreCompileInputs.cache
+/home/sistemas/Development/c#/methods/obj/Debug/net8.0/methods.dll
+/home/sistemas/Development/c#/methods/obj/Debug/net8.0/refint/methods.dll
+/home/sistemas/Development/c#/methods/obj/Debug/net8.0/methods.pdb
+/home/sistemas/Development/c#/methods/obj/Debug/net8.0/methods.genruntimeconfig.cache
+/home/sistemas/Development/c#/methods/obj/Debug/net8.0/ref/methods.dll
