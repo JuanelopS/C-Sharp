@@ -12,3 +12,4 @@
 /home/sistemas/Development/c#/methods/obj/Debug/net8.0/methods.pdb
 /home/sistemas/Development/c#/methods/obj/Debug/net8.0/methods.genruntimeconfig.cache
 /home/sistemas/Development/c#/methods/obj/Debug/net8.0/ref/methods.dll
+/home/sistemas/Development/c#/methods/obj/Debug/net8.0/methods.sourcelink.json

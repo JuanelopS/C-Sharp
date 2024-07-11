@@ -1,0 +1,15 @@
+/home/sistemas/Development/c#/if_else/obj/Debug/net8.0/if_else.GeneratedMSBuildEditorConfig.editorconfig
+/home/sistemas/Development/c#/if_else/obj/Debug/net8.0/if_else.AssemblyInfoInputs.cache
+/home/sistemas/Development/c#/if_else/obj/Debug/net8.0/if_else.AssemblyInfo.cs
+/home/sistemas/Development/c#/if_else/obj/Debug/net8.0/if_else.csproj.CoreCompileInputs.cache
+/home/sistemas/Development/c#/if_else/obj/Debug/net8.0/if_else.sourcelink.json
+/home/sistemas/Development/c#/if_else/bin/Debug/net8.0/if_else
+/home/sistemas/Development/c#/if_else/bin/Debug/net8.0/if_else.deps.json
+/home/sistemas/Development/c#/if_else/bin/Debug/net8.0/if_else.runtimeconfig.json
+/home/sistemas/Development/c#/if_else/bin/Debug/net8.0/if_else.dll
+/home/sistemas/Development/c#/if_else/bin/Debug/net8.0/if_else.pdb
+/home/sistemas/Development/c#/if_else/obj/Debug/net8.0/if_else.dll
+/home/sistemas/Development/c#/if_else/obj/Debug/net8.0/refint/if_else.dll
+/home/sistemas/Development/c#/if_else/obj/Debug/net8.0/if_else.pdb
+/home/sistemas/Development/c#/if_else/obj/Debug/net8.0/if_else.genruntimeconfig.cache
+/home/sistemas/Development/c#/if_else/obj/Debug/net8.0/ref/if_else.dll
