@@ -1,0 +1,15 @@
+/home/sistemas/Development/c#/array_foreach/bin/Debug/net8.0/array_foreach
+/home/sistemas/Development/c#/array_foreach/bin/Debug/net8.0/array_foreach.deps.json
+/home/sistemas/Development/c#/array_foreach/bin/Debug/net8.0/array_foreach.runtimeconfig.json
+/home/sistemas/Development/c#/array_foreach/bin/Debug/net8.0/array_foreach.dll
+/home/sistemas/Development/c#/array_foreach/bin/Debug/net8.0/array_foreach.pdb
+/home/sistemas/Development/c#/array_foreach/obj/Debug/net8.0/array_foreach.GeneratedMSBuildEditorConfig.editorconfig
+/home/sistemas/Development/c#/array_foreach/obj/Debug/net8.0/array_foreach.AssemblyInfoInputs.cache
+/home/sistemas/Development/c#/array_foreach/obj/Debug/net8.0/array_foreach.AssemblyInfo.cs
+/home/sistemas/Development/c#/array_foreach/obj/Debug/net8.0/array_foreach.csproj.CoreCompileInputs.cache
+/home/sistemas/Development/c#/array_foreach/obj/Debug/net8.0/array_foreach.sourcelink.json
+/home/sistemas/Development/c#/array_foreach/obj/Debug/net8.0/array_foreach.dll
+/home/sistemas/Development/c#/array_foreach/obj/Debug/net8.0/refint/array_foreach.dll
+/home/sistemas/Development/c#/array_foreach/obj/Debug/net8.0/array_foreach.pdb
+/home/sistemas/Development/c#/array_foreach/obj/Debug/net8.0/array_foreach.genruntimeconfig.cache
+/home/sistemas/Development/c#/array_foreach/obj/Debug/net8.0/ref/array_foreach.dll

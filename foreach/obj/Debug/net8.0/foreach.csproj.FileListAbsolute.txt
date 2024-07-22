@@ -1,0 +1,15 @@
+/home/sistemas/Development/c#/foreach/bin/Debug/net8.0/foreach
+/home/sistemas/Development/c#/foreach/bin/Debug/net8.0/foreach.deps.json
+/home/sistemas/Development/c#/foreach/bin/Debug/net8.0/foreach.runtimeconfig.json
+/home/sistemas/Development/c#/foreach/bin/Debug/net8.0/foreach.dll
+/home/sistemas/Development/c#/foreach/bin/Debug/net8.0/foreach.pdb
+/home/sistemas/Development/c#/foreach/obj/Debug/net8.0/foreach.GeneratedMSBuildEditorConfig.editorconfig
+/home/sistemas/Development/c#/foreach/obj/Debug/net8.0/foreach.AssemblyInfoInputs.cache
+/home/sistemas/Development/c#/foreach/obj/Debug/net8.0/foreach.AssemblyInfo.cs
+/home/sistemas/Development/c#/foreach/obj/Debug/net8.0/foreach.csproj.CoreCompileInputs.cache
+/home/sistemas/Development/c#/foreach/obj/Debug/net8.0/foreach.sourcelink.json
+/home/sistemas/Development/c#/foreach/obj/Debug/net8.0/foreach.dll
+/home/sistemas/Development/c#/foreach/obj/Debug/net8.0/refint/foreach.dll
+/home/sistemas/Development/c#/foreach/obj/Debug/net8.0/foreach.pdb
+/home/sistemas/Development/c#/foreach/obj/Debug/net8.0/foreach.genruntimeconfig.cache
+/home/sistemas/Development/c#/foreach/obj/Debug/net8.0/ref/foreach.dll
